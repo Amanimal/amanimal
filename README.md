@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on Python and Selenium.
-- 🌱 I’m currently learning Javascript, Cypress, Testcafe, and Software Testing.
+- 🌱 I’m currently learning Javascript, Cypress, TestCafe, and Software Testing.
 - 💬 Ask me about Django.
 <!--
 - 👯 I’m looking to collaborate on ...
