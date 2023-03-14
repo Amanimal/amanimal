@@ -19,6 +19,8 @@ Here are some ideas to get you started:
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Amanimal&theme=flag-fiji&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 <br><br>
-[![Abhishek's GitHub stats](https://github-readme-stats.vercel.app/api?username=Amanimal&show_icons=true)](https://github.com/Amanimal/github-readme-stats)
+[![Abhishek's GitHub stats](https://github-readme-stats.vercel.app/api?username=Amanimal&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+<br><br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Amanimal)](https://github.com/anuraghazra/github-readme-stats)
 
 
