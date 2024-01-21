@@ -6,9 +6,9 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working on Python and Selenium.
+- 🔭 I’m currently working on Python, Django and Selenium.
 - 🌱 I’m currently learning Javascript, Cypress, TestCafe, and Software Testing.
-- 💬 Ask me about Django.
+- 💬 Ask me about Google Workspace.
 <!--
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
