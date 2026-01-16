@@ -20,9 +20,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Amanimal&theme=flag-fiji&date_format=j%20M%5B%20Y%5D&theme=dark)
+
+<!--
 |                                                                                                                                         |                                                                                                                     |
 |-----------------------------------------------------------------------------------------------------------------------------------------|:-------------------------------------------------------------------------------------------------------------------:|
 | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Amanimal&theme=flag-fiji&date_format=j%20M%5B%20Y%5D&theme=dark) | ![Abhishek's GitHub stats](https://github-readme-stats.vercel.app/api?username=Amanimal&show_icons=true&theme=dark) |
+-->
 
 
 
